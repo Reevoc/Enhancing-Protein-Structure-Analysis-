@@ -1,0 +1,1 @@
+sudo docker run -v /home/piermarco/Documents/Enhancing-Protein-Structure-Analysis-/hssp:/app -it hssp
